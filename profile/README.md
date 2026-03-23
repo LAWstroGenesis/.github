@@ -14,7 +14,7 @@
 
 <a href="#ai-first-philosophy"><img src="https://img.shields.io/badge/AI_FIRST-Philosophy-3b82f6?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
 <a href="#our-specialties"><img src="https://img.shields.io/badge/LEGAL_TECH-Pioneers-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
-<a href="#our-vision"><img src="https://img.shields.io/badge/OPEN_SOURCE-Advocacy-10b981?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#our-vision"><img src="https://img.shields.io/badge/LEGAL_INNOVATION-Future-10b981?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
@@ -136,7 +136,7 @@ We help organizations transition to AI-first workflows — not as a buzzword, bu
 
 <br/>
 
-- **Democratize legal knowledge** — Make legal information universally accessible through AI-powered tools and open-source platforms.
+- **Democratize legal knowledge** — Make legal information universally accessible through AI-powered tools and platforms.
 - **Automate the mundane, elevate the meaningful** — Free professionals from repetitive tasks so they can focus on creativity, strategy, and bold ideas.
 - **Let AI do what AI does best** — Code reviews, document analysis, research synthesis, compliance checks — machines handle the volume, humans handle the vision.
 - **Build trust through transparency** — Every algorithm we deploy is auditable. Every dataset is documented. We earn trust, not demand it.
@@ -149,7 +149,6 @@ We help organizations transition to AI-first workflows — not as a buzzword, bu
 | Principle | In Practice |
 |:---------:|:------------|
 | **AI First** | AI writes code, reviews PRs, drafts docs, and runs analysis. Humans direct, create, and decide. |
-| **Open by Default** | We open-source wherever possible. Innovation thrives in the open. |
 | **Privacy First** | Zero-knowledge architectures and E2E encryption as non-negotiable standards. |
 | **Human Creativity in the Loop** | AI handles execution. Humans bring judgment, intuition, and imagination. |
 | **Jurisdiction Aware** | Law is local. Our systems respect the nuance of every legal tradition. |
