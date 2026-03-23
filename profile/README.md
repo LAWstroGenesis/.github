@@ -146,16 +146,6 @@ We help organizations transition to AI-first workflows — not as a buzzword, bu
 
 ---
 
-## Get Involved
-
-We're looking for people who believe AI can make justice more just — and humans more free.
-
-- **Contribute** — Explore our repositories and open a PR.
-- **Collaborate** — Legal professionals, researchers, technologists — reach out.
-- **Build With Us** — Check our open issues for ways to get started.
-
----
-
 <div align="center">
 
 **LAWstroGenesis** — *The genesis of a new era in law and AI.*
