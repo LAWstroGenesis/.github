@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=180&section=header&text=LAWstroGenesis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Where%20Law%20Meets%20Innovation&descSize=16&descAlignY=52&descAlign=50" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-256x256.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-256x256.gif" />
+  <img src="../src/images/lawstrogenesis-transparent-256x256.png" alt="LAWstroGenesis" width="140" />
+</picture>
 
-<img src="../src/images/lawstrogenesis-dark-256x256.gif" alt="LAWstroGenesis" width="130" style="margin-top:-80px" />
+# LAWstroGenesis
 
 ### Rewriting the rules. Redefining justice. Reshaping the future.
 
