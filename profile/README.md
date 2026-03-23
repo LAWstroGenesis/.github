@@ -1,30 +1,20 @@
 <div align="center">
 
-<!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=200&section=header&text=&fontSize=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=180&section=header&text=LAWstroGenesis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Where%20Law%20Meets%20Innovation&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 
-<!-- Logo — adapts to GitHub theme -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-256x256.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-256x256.gif" />
-  <img src="../src/images/lawstrogenesis-transparent-256x256.png" alt="LAWstroGenesis" width="160" />
-</picture>
-
-# LAWstroGenesis
+<img src="../src/images/lawstrogenesis-dark-256x256.gif" alt="LAWstroGenesis" width="130" style="margin-top:-80px" />
 
 ### Rewriting the rules. Redefining justice. Reshaping the future.
 
-<br/>
-
-<a href="#-our-specialties"><img src="https://img.shields.io/badge/LEGAL_TECH-Pioneers-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
-<a href="#-ai-first-philosophy"><img src="https://img.shields.io/badge/AI_FIRST-Philosophy-3b82f6?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
-<a href="#-our-vision"><img src="https://img.shields.io/badge/OPEN_SOURCE-Advocacy-10b981?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#ai-first-philosophy"><img src="https://img.shields.io/badge/AI_FIRST-Philosophy-3b82f6?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="#our-specialties"><img src="https://img.shields.io/badge/LEGAL_TECH-Pioneers-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="#our-vision"><img src="https://img.shields.io/badge/OPEN_SOURCE-Advocacy-10b981?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
-<br/>
+---
 
-## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> About Us
+## About Us
 
 **LAWstroGenesis** is a legal technology company born from a single conviction: *the law should work for everyone, not just those who can afford it.*
 
@@ -38,7 +28,7 @@ We fuse cutting-edge AI with deep legal expertise to build tools that make the l
 
 ---
 
-## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> AI-First Philosophy
+## AI-First Philosophy
 
 We don't just use AI — we believe in it as a force that fundamentally changes what humans can achieve.
 
@@ -74,7 +64,7 @@ We actively adopt and advocate for AI-powered workflows across everything we bui
 
 ---
 
-## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Our Specialties
+## Our Specialties
 
 <table>
 <tr>
@@ -129,17 +119,9 @@ We help organizations transition to AI-first workflows — not as a buzzword, bu
 
 ---
 
-## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Our Vision
+## Our Vision
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-512x512.png" />
-  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-512x512.png" />
-  <img src="../src/images/lawstrogenesis-transparent-512x512.png" alt="" width="140" />
-</picture>
-
-<br/>
 
 **A world where law is transparent, AI does the heavy lifting,**
 **and humans are free to create, think, and push boundaries.**
@@ -156,36 +138,32 @@ We help organizations transition to AI-first workflows — not as a buzzword, bu
 
 ---
 
-## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> How We Work
+## How We Work
 
-<div align="center">
-
-| | Principle | In Practice |
-|:---:|:---------:|:------------|
-| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **AI First** | AI writes code, reviews PRs, drafts docs, and runs analysis. Humans direct, create, and decide. |
-| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Open by Default** | We open-source wherever possible. Innovation thrives in the open. |
-| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Privacy First** | Zero-knowledge architectures and E2E encryption as non-negotiable standards. |
-| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Human Creativity in the Loop** | AI handles execution. Humans bring judgment, intuition, and imagination. |
-| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Jurisdiction Aware** | Law is local. Our systems respect the nuance of every legal tradition. |
-
-</div>
+| Principle | In Practice |
+|:---------:|:------------|
+| **AI First** | AI writes code, reviews PRs, drafts docs, and runs analysis. Humans direct, create, and decide. |
+| **Open by Default** | We open-source wherever possible. Innovation thrives in the open. |
+| **Privacy First** | Zero-knowledge architectures and E2E encryption as non-negotiable standards. |
+| **Human Creativity in the Loop** | AI handles execution. Humans bring judgment, intuition, and imagination. |
+| **Jurisdiction Aware** | Law is local. Our systems respect the nuance of every legal tradition. |
 
 ---
 
-## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Tech Stack
+## Tech Stack
 
-```text
-  AI/ML            │  LLMs, AI Agents, RAG pipelines, Legal-domain models
-  Automation       │  AI code review, AI doc generation, CI/CD with AI gates
-  Infrastructure   │  Cloud-native, Kubernetes, Event-driven architectures
-  Data             │  Graph databases, Legal ontologies, Interoperable standards
-  Security         │  Zero-trust, E2E encryption, SOC 2 compliant
-  Frontend         │  Accessible-first design, WCAG 2.1 AA+, Multilingual
-```
+| Layer | Technologies |
+|:-----:|:-------------|
+| **AI/ML** | LLMs, AI Agents, RAG pipelines, Legal-domain models |
+| **Automation** | AI code review, AI doc generation, CI/CD with AI gates |
+| **Infrastructure** | Cloud-native, Kubernetes, Event-driven architectures |
+| **Data** | Graph databases, Legal ontologies, Interoperable standards |
+| **Security** | Zero-trust, E2E encryption, SOC 2 compliant |
+| **Frontend** | Accessible-first design, WCAG 2.1 AA+, Multilingual |
 
 ---
 
-## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Get Involved
+## Get Involved
 
 We're looking for people who believe AI can make justice more just — and humans more free.
 
@@ -197,22 +175,10 @@ We're looking for people who believe AI can make justice more just — and human
 
 <div align="center">
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-128x128.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-128x128.gif" />
-  <img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="LAWstroGenesis" width="80" />
-</picture>
-
 **LAWstroGenesis** — *The genesis of a new era in law and AI.*
-
-<br/>
 
 <a href="https://github.com/LAWstroGenesis"><img src="https://img.shields.io/badge/GitHub-LAWstroGenesis-181717?style=flat-square&logo=github" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a1f6c,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a1f6c,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
