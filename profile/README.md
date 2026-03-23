@@ -1,83 +1,127 @@
 <div align="center">
 
-<!-- Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=220&section=header&text=LAWstroGenesis&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Where%20Law%20Meets%20Innovation&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+<!-- Header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=200&section=header&text=&fontSize=1" width="100%" />
+
+<!-- Logo — adapts to GitHub theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-256x256.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-256x256.gif" />
+  <img src="../src/images/lawstrogenesis-transparent-256x256.png" alt="LAWstroGenesis" width="160" />
+</picture>
+
+# LAWstroGenesis
+
+### Rewriting the rules. Redefining justice. Reshaping the future.
 
 <br/>
 
-<img src="../src/images/lawstrogenesis-dark-256x256.gif" alt="LAWstroGenesis Logo" width="180" />
-
-<br/>
-
-### `Rewriting the rules. Redefining justice. Reshaping the future.`
-
-<br/>
-
-<a href="#about"><img src="https://img.shields.io/badge/LEGAL_TECH-Pioneers-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#specialties"><img src="https://img.shields.io/badge/AI_POWERED-Justice-3b82f6?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#vision"><img src="https://img.shields.io/badge/OPEN_SOURCE-Advocacy-10b981?style=for-the-badge&labelColor=0d1117" /></a>
-
-<br/><br/>
+<a href="#-our-specialties"><img src="https://img.shields.io/badge/LEGAL_TECH-Pioneers-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="#-ai-first-philosophy"><img src="https://img.shields.io/badge/AI_FIRST-Philosophy-3b82f6?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="#-our-vision"><img src="https://img.shields.io/badge/OPEN_SOURCE-Advocacy-10b981?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
----
-
-## About Us
-
-<img align="right" src="../src/images/lawstrogenesis-light-128x128.gif" alt="" width="100" />
-
-**LAWstroGenesis** is a legal technology company born from a single conviction: *the law should work for everyone, not just those who can afford it.* We fuse cutting-edge technology with deep legal expertise to build tools that make the legal system faster, fairer, and fundamentally more accessible.
-
-Our name carries our mission — **LAW** for the domain we serve, **Astro** for the heights we aim to reach, and **Genesis** for the new era of justice we're building.
-
 <br/>
+
+## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> About Us
+
+**LAWstroGenesis** is a legal technology company born from a single conviction: *the law should work for everyone, not just those who can afford it.*
+
+We fuse cutting-edge AI with deep legal expertise to build tools that make the legal system faster, fairer, and fundamentally more accessible. Our name carries our mission — **LAW** for the domain we serve, **Astro** for the heights we aim to reach, and **Genesis** for the new era we're building.
 
 <div align="center">
 
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                 │
-  │   "Technology is not the opposite of justice —                  │
-  │    it is its greatest accelerator."                             │
-  │                                                                 │
-  └─────────────────────────────────────────────────────────────────┘
-```
+> *"Technology is not the opposite of justice — it is its greatest accelerator."*
 
 </div>
 
-<br/>
+---
+
+## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> AI-First Philosophy
+
+We don't just use AI — we believe in it as a force that fundamentally changes what humans can achieve.
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**AI is powerful enough to do the heavy lifting.** Code reviews, documentation, research, repetitive development tasks — these are problems AI already solves better and faster than humans grinding through them manually. We lean into that reality instead of fighting it.
+
+**Humans should do what only humans can do.** Think deeply. Be creative. Experiment wildly. Meditate on hard problems. Dream up ideas that have never existed. When AI handles the grunt work, people get the room to do what actually matters.
+
+**We don't replace people — we unleash them.** Every developer freed from boilerplate becomes an architect. Every researcher freed from manual review becomes a visionary. AI doesn't shrink the team — it multiplies what the team can imagine and build.
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-128x128.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-128x128.gif" />
+  <img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="" width="120" />
+</picture>
+
+<br/><br/>
+
+*Let machines do the work.*
+*Let humans do the thinking.*
+
+</td>
+</tr>
+</table>
+
+We actively adopt and advocate for AI-powered workflows across everything we build — from AI agents that write and review code, to intelligent systems that draft and analyze legal documents, to automated pipelines that replace entire manual processes. This isn't a future bet. This is how we operate today.
 
 ---
 
-## Our Specialties
+## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Our Specialties
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> AI-Driven Legal Intelligence
-We develop intelligent systems that can analyze case law, identify precedents, and surface insights that would take human researchers weeks — in seconds. Our models are trained on legal corpora spanning multiple jurisdictions and decades of case history.
+### AI-Driven Legal Intelligence
+
+Intelligent systems that analyze case law, identify precedents, and surface insights in seconds — work that would take human researchers weeks. Our models span multiple jurisdictions and decades of case history.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> Smart Contract & Compliance Automation
-From regulatory compliance monitoring to self-executing smart contracts, we build automation pipelines that reduce legal overhead and eliminate human error in high-stakes processes.
+### Smart Contract & Compliance Automation
+
+From regulatory compliance monitoring to self-executing smart contracts — automation pipelines that reduce legal overhead and eliminate human error in high-stakes processes.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> Access-to-Justice Platforms
-We create open, multilingual platforms that guide individuals through legal processes — from tenant rights to immigration — without requiring an attorney. Justice shouldn't have a price tag.
+### Access-to-Justice Platforms
+
+Open, multilingual platforms that guide individuals through legal processes — from tenant rights to immigration — without requiring an attorney. Justice shouldn't have a price tag.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> Legal Data Infrastructure
-We architect the foundational data layers that power next-generation legal applications: standardized legal ontologies, interoperable case databases, and privacy-first identity verification systems.
+### Legal Data Infrastructure
+
+The foundational data layers that power next-generation legal applications: standardized ontologies, interoperable case databases, and privacy-first identity verification.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI-Powered Development
+
+We use AI agents for code generation, code review, documentation, testing, and deployment. Our engineering culture is built around maximizing human creativity by offloading mechanical work to machines.
+
+</td>
+<td width="50%" valign="top">
+
+### AI Adoption & Advocacy
+
+We help organizations transition to AI-first workflows — not as a buzzword, but as a practical shift that frees teams to focus on strategy, experimentation, and the work that actually requires a human mind.
 
 </td>
 </tr>
@@ -85,70 +129,68 @@ We architect the foundational data layers that power next-generation legal appli
 
 ---
 
-## Our Vision
+## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Our Vision
 
 <div align="center">
 
-<img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="" width="80" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-512x512.png" />
+  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-512x512.png" />
+  <img src="../src/images/lawstrogenesis-transparent-512x512.png" alt="" width="140" />
+</picture>
 
-```
-         ╔══════════════════════════════════════════════╗
-         ║                                              ║
-         ║     A world where the law is transparent,    ║
-         ║     accessible, and intelligent enough        ║
-         ║     to serve every person equally.            ║
-         ║                                              ║
-         ╚══════════════════════════════════════════════╝
-```
+<br/>
+
+**A world where law is transparent, AI does the heavy lifting,**
+**and humans are free to create, think, and push boundaries.**
 
 </div>
 
-We believe the legal system is one of the most impactful yet underserved domains in technology. While other industries have been transformed by AI, automation, and open data, the legal world remains locked behind jargon, paywalls, and inefficiency.
+<br/>
 
-**We're here to change that.**
-
-Our direction is clear:
-
-- **Democratize legal knowledge** — Make legal information and guidance universally accessible through AI-powered tools and open-source platforms.
-- **Automate the mundane, elevate the meaningful** — Free legal professionals from repetitive tasks so they can focus on advocacy, strategy, and human judgment.
-- **Build trust through transparency** — Every algorithm we deploy is auditable. Every dataset we use is documented. We believe in earning trust, not demanding it.
+- **Democratize legal knowledge** — Make legal information universally accessible through AI-powered tools and open-source platforms.
+- **Automate the mundane, elevate the meaningful** — Free professionals from repetitive tasks so they can focus on creativity, strategy, and bold ideas.
+- **Let AI do what AI does best** — Code reviews, document analysis, research synthesis, compliance checks — machines handle the volume, humans handle the vision.
+- **Build trust through transparency** — Every algorithm we deploy is auditable. Every dataset is documented. We earn trust, not demand it.
 - **Bridge jurisdictions** — Create interoperable legal frameworks that work across borders, languages, and legal traditions.
 
 ---
 
-## How We Work
+## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> How We Work
 
 <div align="center">
 
-| Principle | What It Means |
-|:---------:|:--------------|
-| **Open by Default** | We open-source our tools wherever possible. Innovation thrives in the open. |
-| **Privacy First** | Legal data is sensitive. We build with zero-knowledge architectures and end-to-end encryption as non-negotiable standards. |
-| **Human in the Loop** | AI advises. Humans decide. We never remove human judgment from consequential legal decisions. |
-| **Jurisdiction Aware** | Our systems understand that law is local. We respect the nuance of every legal tradition we serve. |
+| | Principle | In Practice |
+|:---:|:---------:|:------------|
+| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **AI First** | AI writes code, reviews PRs, drafts docs, and runs analysis. Humans direct, create, and decide. |
+| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Open by Default** | We open-source wherever possible. Innovation thrives in the open. |
+| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Privacy First** | Zero-knowledge architectures and E2E encryption as non-negotiable standards. |
+| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Human Creativity in the Loop** | AI handles execution. Humans bring judgment, intuition, and imagination. |
+| <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="20" /> | **Jurisdiction Aware** | Law is local. Our systems respect the nuance of every legal tradition. |
 
 </div>
 
 ---
 
-## Tech Stack & Approach
+## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Tech Stack
 
 ```text
-  AI/ML            │  NLP, Transformer models, Legal-domain LLMs, RAG pipelines
+  AI/ML            │  LLMs, AI Agents, RAG pipelines, Legal-domain models
+  Automation       │  AI code review, AI doc generation, CI/CD with AI gates
   Infrastructure   │  Cloud-native, Kubernetes, Event-driven architectures
-  Data             │  Graph databases, Legal ontologies, FHIR-inspired legal data standards
+  Data             │  Graph databases, Legal ontologies, Interoperable standards
   Security         │  Zero-trust, E2E encryption, SOC 2 compliant
   Frontend         │  Accessible-first design, WCAG 2.1 AA+, Multilingual
 ```
 
 ---
 
-## Get Involved
+## <img src="../src/images/lawstrogenesis-transparent-64x64.png" width="28" /> Get Involved
 
-We're always looking for people who believe technology can make justice more just.
+We're looking for people who believe AI can make justice more just — and humans more free.
 
-- **Contribute** — Explore our repositories and open a PR. Every contribution matters.
-- **Collaborate** — If you're a legal professional, researcher, or technologist with ideas, reach out.
+- **Contribute** — Explore our repositories and open a PR.
+- **Collaborate** — Legal professionals, researchers, technologists — reach out.
 - **Build With Us** — Check our open issues for ways to get started.
 
 ---
@@ -160,12 +202,10 @@ We're always looking for people who believe technology can make justice more jus
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-128x128.gif" />
   <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-128x128.gif" />
-  <img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="LAWstroGenesis" width="100" />
+  <img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="LAWstroGenesis" width="80" />
 </picture>
 
-<br/>
-
-**LAWstroGenesis** — *The genesis of a new era in law.*
+**LAWstroGenesis** — *The genesis of a new era in law and AI.*
 
 <br/>
 
