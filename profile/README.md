@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="./assets/logo-main.svg" alt="LAWstroGenesis Logo" width="180" />
+<img src="../src/images/lawstrogenesis-dark-256x256.gif" alt="LAWstroGenesis Logo" width="180" />
 
 <br/>
 
@@ -24,6 +24,8 @@
 ---
 
 ## About Us
+
+<img align="right" src="../src/images/lawstrogenesis-light-128x128.gif" alt="" width="100" />
 
 **LAWstroGenesis** is a legal technology company born from a single conviction: *the law should work for everyone, not just those who can afford it.* We fuse cutting-edge technology with deep legal expertise to build tools that make the legal system faster, fairer, and fundamentally more accessible.
 
@@ -54,13 +56,13 @@ Our name carries our mission — **LAW** for the domain we serve, **Astro** for 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/logo-icon.svg" width="24" /> AI-Driven Legal Intelligence
+### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> AI-Driven Legal Intelligence
 We develop intelligent systems that can analyze case law, identify precedents, and surface insights that would take human researchers weeks — in seconds. Our models are trained on legal corpora spanning multiple jurisdictions and decades of case history.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="./assets/logo-icon.svg" width="24" /> Smart Contract & Compliance Automation
+### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> Smart Contract & Compliance Automation
 From regulatory compliance monitoring to self-executing smart contracts, we build automation pipelines that reduce legal overhead and eliminate human error in high-stakes processes.
 
 </td>
@@ -68,13 +70,13 @@ From regulatory compliance monitoring to self-executing smart contracts, we buil
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/logo-icon.svg" width="24" /> Access-to-Justice Platforms
+### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> Access-to-Justice Platforms
 We create open, multilingual platforms that guide individuals through legal processes — from tenant rights to immigration — without requiring an attorney. Justice shouldn't have a price tag.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="./assets/logo-icon.svg" width="24" /> Legal Data Infrastructure
+### <img src="../src/images/lawstrogenesis-transparent-32x32.png" width="24" /> Legal Data Infrastructure
 We architect the foundational data layers that power next-generation legal applications: standardized legal ontologies, interoperable case databases, and privacy-first identity verification systems.
 
 </td>
@@ -86,6 +88,8 @@ We architect the foundational data layers that power next-generation legal appli
 ## Our Vision
 
 <div align="center">
+
+<img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="" width="80" />
 
 ```
          ╔══════════════════════════════════════════════╗
@@ -153,7 +157,11 @@ We're always looking for people who believe technology can make justice more jus
 
 <br/>
 
-<img src="./assets/logo-alt.svg" alt="LAWstroGenesis" width="100" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-128x128.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-128x128.gif" />
+  <img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="LAWstroGenesis" width="100" />
+</picture>
 
 <br/>
 
