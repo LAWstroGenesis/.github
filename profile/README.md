@@ -10,7 +10,7 @@
 
 # LAWstroGenesis
 
-### Rewriting the rules. Redefining justice. Reshaping the future.
+### *Genesis begins where automation ends.*
 
 <a href="#ai-first-philosophy"><img src="https://img.shields.io/badge/AI_FIRST-Philosophy-3b82f6?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
 <a href="#our-specialties"><img src="https://img.shields.io/badge/LEGAL_TECH-Pioneers-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
@@ -38,32 +38,11 @@ We fuse cutting-edge AI with deep legal expertise to build tools that make the l
 
 We don't just use AI — we believe in it as a force that fundamentally changes what humans can achieve.
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 **AI is powerful enough to do the heavy lifting.** Code reviews, documentation, research, repetitive development tasks — these are problems AI already solves better and faster than humans grinding through them manually. We lean into that reality instead of fighting it.
 
 **Humans should do what only humans can do.** Think deeply. Be creative. Experiment wildly. Meditate on hard problems. Dream up ideas that have never existed. When AI handles the grunt work, people get the room to do what actually matters.
 
 **We don't replace people — we unleash them.** Every developer freed from boilerplate becomes an architect. Every researcher freed from manual review becomes a visionary. AI doesn't shrink the team — it multiplies what the team can imagine and build.
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-128x128.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-128x128.gif" />
-  <img src="../src/images/lawstrogenesis-transparent-128x128.png" alt="" width="120" />
-</picture>
-
-<br/><br/>
-
-*Genesis begins where automation ends.*
-
-</td>
-</tr>
-</table>
 
 We actively adopt and advocate for AI-powered workflows across everything we build — from AI agents that write and review code, to intelligent systems that draft and analyze legal documents, to automated pipelines that replace entire manual processes. This isn't a future bet. This is how we operate today.
 
