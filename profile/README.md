@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=160&section=header&text=&fontSize=1" width="100%" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-256x256.gif" />
   <source media="(prefers-color-scheme: light)" srcset="../src/images/lawstrogenesis-light-256x256.gif" />
