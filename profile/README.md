@@ -59,8 +59,7 @@ We don't just use AI — we believe in it as a force that fundamentally changes 
 
 <br/><br/>
 
-*Let machines do the work.*
-*Let humans do the thinking.*
+*Genesis begins where automation ends.*
 
 </td>
 </tr>
