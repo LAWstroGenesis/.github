@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="orbit-grad-alt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c4b5fd;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0.5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Orbital ring 1 - vertical tilt -->
+  <ellipse cx="256" cy="256" rx="130" ry="90" fill="none" stroke="url(#orbit-grad-alt)" stroke-width="8" transform="rotate(-55 256 256)"/>
+
+  <!-- Orbital ring 2 - vertical tilt opposite -->
+  <ellipse cx="256" cy="256" rx="130" ry="90" fill="none" stroke="url(#orbit-grad-alt)" stroke-width="8" transform="rotate(55 256 256)"/>
+
+  <!-- Eye shape - outer -->
+  <path d="M56 256 Q256 110 456 256 Q256 402 56 256Z" fill="none" stroke="#3b1f8e" stroke-width="10" stroke-linejoin="round"/>
+
+  <!-- Iris outer -->
+  <ellipse cx="256" cy="256" rx="38" ry="28" fill="#5b3cc4" stroke="#3b1f8e" stroke-width="5"/>
+
+  <!-- Iris inner -->
+  <circle cx="256" cy="256" r="45" fill="#5b3cc4" stroke="#3b1f8e" stroke-width="6"/>
+
+  <!-- Pupil -->
+  <circle cx="256" cy="256" r="18" fill="white"/>
+
+  <!-- Orbital dot left -->
+  <circle cx="190" cy="170" r="12" fill="#5b3cc4"/>
+
+  <!-- Orbital dot right-bottom -->
+  <circle cx="322" cy="342" r="10" fill="#a78bfa"/>
+</svg>

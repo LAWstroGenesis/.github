@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Eye shape - outer -->
+  <path d="M20 100 Q100 30 180 100 Q100 170 20 100Z" fill="none" stroke="#3b1f8e" stroke-width="7" stroke-linejoin="round"/>
+  <!-- Iris -->
+  <circle cx="100" cy="100" r="22" fill="#5b3cc4" stroke="#3b1f8e" stroke-width="4"/>
+  <!-- Pupil -->
+  <circle cx="100" cy="100" r="10" fill="white"/>
+</svg>
