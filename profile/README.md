@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=200&section=header&text=LAWstroGenesis&fontSize=42&fontColor=ffffff&fontAlignY=30&desc=Genesis%20begins%20where%20automation%20ends.&descSize=16&descColor=c4b5fd&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6c,100:7c3aed&height=200&section=header&text=LAWstroGenesis&fontSize=42&fontColor=ffffff&fontAlign=15&fontAlignY=30&desc=Genesis%20begins%20where%20automation%20ends.&descSize=12&descColor=c4b5fd&descAlign=22&descAlignY=55" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../src/images/lawstrogenesis-dark-256x256.gif" />
